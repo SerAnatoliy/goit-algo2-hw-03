@@ -68,18 +68,6 @@ significantly enhance the overall flow and balance the supply to under-served st
 
 #### Task 2
 
-Install the requirements:
-
-```shell
-pip install -r requirements.txt
-```
-
-Run the Benchmark:
-
-```shell
-python3 -m unittest ./test_data_storage.py
-```
-
 Sample result:
 
 ```
